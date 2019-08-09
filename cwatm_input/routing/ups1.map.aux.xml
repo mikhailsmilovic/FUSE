@@ -1,0 +1,27 @@
+<PAMDataset>
+  <SRS>GEOGCS["GCS_WGS_1984",DATUM["WGS_1984",SPHEROID["WGS_84",6378137.0,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0.0,AUTHORITY["EPSG","8901"]],UNIT["Degree",0.0174532925199433,AUTHORITY["EPSG","9102"]],AUTHORITY["EPSG","4326"]]</SRS>
+  <Metadata>
+    <MDI key="PCRASTER_VALUESCALE">VS_SCALAR</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0.8074357509613037</HistMin>
+        <HistMax>46939.16015625</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>55301|668|246|199|81|65|106|52|42|26|12|33|28|20|25|29|50|12|17|20|15|18|10|24|29|17|0|1|8|10|10|20|4|17|0|12|24|12|1|12|12|0|2|0|5|10|6|0|0|0|0|0|0|0|0|6|4|11|5|13|5|10|11|4|8|15|24|1|11|0|6|0|0|3|12|3|10|7|7|7|4|11|10|16|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3|7|10|10|11|0|0|5|0|10|6|8|2|0|20|2|4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|12|0|12|12|2|0|0|0|0|0|0|0|0|0|0|0|0|12|9|9|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|6|0|4|9|7|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">3953495.327464682</MDI>
+      <MDI key="STATISTICS_MAXIMUM">46939.16015625</MDI>
+      <MDI key="STATISTICS_MEAN">210.23876707237</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.8074357509613</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1988.3398420453</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
