@@ -8,3 +8,4 @@ Modflow/output/Bhima_transient.rch
 Modflow/output/Bhima_transient.upw
 Modflow/output/Bhima_transient.wel
 Modflow/output/Bhima_transient_error.txt
+Input/meteo/IMD_wfdei/ETRef_daily.nc
