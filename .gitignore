@@ -30,3 +30,9 @@ Input/meteo/IMD_wfdei/EWRef_daily.nc
 Input/meteo/IMD_wfdei/EWRef_daily_Nira.nc
 References/~$04May20_FUSE_WaterBalance.pptx
 References/~$08Jun20_FUSE_NiraBasin.pptx
+Modflow/output/Bhima_transient_error.txt
+Modflow/output/Bhima_transient.wel
+Modflow/output/Bhima_transient.rch
+Modflow/output/Bhima_transient.list
+Modflow/output/Bhima_transient.hds
+Modflow/output/Bhima_transient.bas
