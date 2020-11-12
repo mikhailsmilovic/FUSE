@@ -1,0 +1,8 @@
+    "    GWTable_ModFlow = ds['modflowWaterLevel_monthend'][:].data 
+<<<<<<< Updated upstream
+    "    ds.close()    \n",
+=======
+
+    "    Topography_ModFlow = Top.reshape(nrow,ncol) + Soil_thickness # We need to add soil thickness to compare WTD\n",
+    "    \n",
+>>>>>>> Stashed changes
