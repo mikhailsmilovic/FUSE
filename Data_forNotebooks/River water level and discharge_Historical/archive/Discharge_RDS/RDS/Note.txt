@@ -1,6 +1,0 @@
-Bhima_ARS_daily shows the data for post-2013 daily river level and discharge we received shortly after the trip in 2018 summer. 
-
-Then, from comparing the dataset to the total list of RDS stations we also received from them, 
-we noticed that the dataset was missing data for 2 stations (Kalyaninagar and Khamgaon).
-
-So, we requested the missing data, also at daily timestep, but they shared the data for 15-minute time step for those 2 stations. 
